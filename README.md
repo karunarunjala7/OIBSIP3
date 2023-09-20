@@ -1,2 +1,2 @@
-# Temparature Converter
-Temparature Converter
+# Temperature Converter
+Temperature Converter
